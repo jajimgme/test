@@ -6005,6 +6005,7 @@
         {
           "arcs": [[55, 56, 57, 58, 59, 60, 61, 62]],
           "type": "Polygon",
+          "NAME_2": "Madrid",
           "properties": {
             "ISO": "ESP",
             "NAME_0": "Spain",
