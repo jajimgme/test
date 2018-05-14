@@ -6005,7 +6005,6 @@
         {
           "arcs": [[55, 56, 57, 58, 59, 60, 61, 62]],
           "type": "Polygon",
-          "NAME_2": "Madrid",
           "properties": {
             "ISO": "ESP",
             "NAME_0": "Spain",
@@ -6013,6 +6012,7 @@
             "NAME_1": "Castilla y Leon",
             "ID_2": 13608,
             "NAME_2": "Madrid",
+            "PRUEBA": "Madrid",
             "VARNAME_2": "",
             "HASC_2": "ES.CL.AV",
             "TYPE_2": "Provincia",
